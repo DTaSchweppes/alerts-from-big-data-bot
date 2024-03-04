@@ -8,4 +8,4 @@
 4.обработка результатов ответа от EDW и сервиса <br />
 5.вычисления (бизнес-логика)<br />
 6.финал в сообщении в ТГ (Алерт)<br />
-![image](https://github.com/DTaSchweppes/alerts-from-big-data-bot/assets/45369246/39a1eda1-5a67-4262-848d-9c1d9eb88bf2)
+
